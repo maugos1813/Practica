@@ -9,9 +9,9 @@ export const DB_DATABASE = process.env.DB_DATABASE
 export const DB_PORT = process.env.DB_PORT
 export const PORT = process.env.PORT
 
-console.log(DB_HOST);
-console.log(DB_USER);
-console.log(DB_PASSWORD);
-console.log(DB_DATABASE);
-console.log(DB_PORT);
-console.log(PORT);
+console.log(DB_HOST)
+console.log(DB_USER)
+console.log(DB_PASSWORD)
+console.log(DB_DATABASE)
+console.log(DB_PORT)
+console.log(PORT)

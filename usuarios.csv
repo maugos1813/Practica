@@ -1,0 +1,21 @@
+id,nombres,apellidos,direccion,correo,dni,edad,fechaCreacion,telefono
+1,Mauro,Agostinelli,Arequipa Mz5 Lt5,undefined,78678987,21,2022/02/15,987654657
+2,Matias,Melgar,Piura Mz4 Lt4,undefined,65768765,21,2023/08/25,976887654
+3,Karla,Agostinelli,Lima Mz7 Lt7,undefined,87586765,38,2021/03/12,987678987
+4,Sebastian,Basara,moquegua Mz6 Lt6,undefined,76587643,17,2021/03/29,967564537
+5,Gabriel,Avalos,Iquitos Mz1 Lt1,undefined,45657687,27,2020/12/31,978675643
+6,Camila,Agostinelli,Buenos Aires Mz12 lt12,undefined,75687678,27,2023/04/23,968776523
+7,Deysy,Gamonal,Trujillo Mz9 Lt9,undefined,75687898,45,2021/03/18,978987654
+8,Omar,Samanez,Mollendo Mz10 Lt10,undefined,67765677,44,2020/05/23,978987654
+9,Franchesca,Agostinelli,Arequipa Mz23 Lt23,undefined,78765678,1,2023/04/10,987654567
+10,Miguel,Rospigliosi,Dolores Mz45 Lt45,undefined,45656789,21,2019/05/13,987678987
+20,Mauro,Agostinelli,Arequipa Mz5 Lt5,undefined,78678987,21,2022/02/15,987654657
+30,Matias,Melgar,Piura Mz4 Lt4,undefined,65768765,21,2023/08/25,976887654
+40,Karla,Agostinelli,Lima Mz7 Lt7,undefined,87586765,38,2021/03/12,987678987
+50,Sebastian,Basara,moquegua Mz6 Lt6,undefined,76587643,17,2021/03/29,967564537
+60,Gabriel,Avalos,Iquitos Mz1 Lt1,undefined,45657687,27,2020/12/31,978675643
+70,Camila,Agostinelli,Buenos Aires Mz12 lt12,undefined,75687678,27,2023/04/23,968776523
+80,Deysy,Gamonal,Trujillo Mz9 Lt9,undefined,75687898,45,2021/03/18,978987654
+90,Omar,Samanez,Mollendo Mz10 Lt10,undefined,67765677,44,2020/05/23,978987654
+100,Franchesca,Agostinelli,Arequipa Mz23 Lt23,undefined,78765678,1,2023/04/10,987654567
+110,Miguel,Rospigliosi,Dolores Mz45 Lt45,undefined,45656789,21,2019/05/13,987678987
